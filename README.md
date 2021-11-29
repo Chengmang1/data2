@@ -1,2 +1,2 @@
 # data2
-Files on algorithm simulation
+MATLAB simulation file about the algorithm
